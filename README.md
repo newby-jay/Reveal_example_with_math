@@ -12,6 +12,9 @@ Reveal.js is a package, much like Beamer. It uses a markup language and LateX to
   6. Play your presentations on any device that can run a modern web browser
   7. Publish your presentations on your webserver
 
+To view this presentation, clone (download) this repository and launch `slides.html` in a web browser (tested in Chrome only)
+
+
 https://revealjs.com/
 
 https://www.mathjax.org/
